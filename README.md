@@ -19,6 +19,6 @@
 - Run the app named P1
 
 ###Resources
-This project was biult using [Unity3D](https://unity3d.com/) using a tutorial from [Udacity Virtual Reality Nanodegree](https://classroom.udacity.com/nanodegrees/nd017/syllabus)
+This project was biult using [Unity3D](https://unity3d.com/) using a Course from [Udacity Virtual Reality Nanodegree](https://classroom.udacity.com/nanodegrees/nd017/syllabus)
 
 
